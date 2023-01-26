@@ -3,7 +3,9 @@ Task Manager app in Node and Express
 
 ## How to run:
 1. Clone the repository by git clone command:
-  git clone https://github.com/tanmaysharma2001/task-manager
+   ```
+   git clone https://github.com/tanmaysharma2001/task-manager
+   ```
 2. Install the required node modules using the following command:
    ```
    npm install
